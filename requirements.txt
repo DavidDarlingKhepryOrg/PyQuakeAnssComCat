@@ -1,0 +1,10 @@
+certifi==2020.12.5
+chardet==4.0.0
+elasticsearch==7.10.1
+idna==2.10
+MonthDelta==0.9.1
+numpy==1.19.3
+requests==2.25.1
+reverse-geocoder==1.5.1
+scipy==1.6.0
+urllib3==1.26.2
